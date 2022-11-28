@@ -1,2 +1,3 @@
 class Trainer():
-  "here the other people do something else"
+  "here i will do some code"
+
