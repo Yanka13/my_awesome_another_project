@@ -1,2 +1,2 @@
-class FeatureEngineering():
+def FeatureEngineering():
   pass
